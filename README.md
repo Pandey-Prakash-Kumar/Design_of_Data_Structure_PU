@@ -1,4 +1,4 @@
-# DDS Theory Lesson Plan
+# Design of Data Strcuture
 
 ## Unit 1: Introduction to Data Structures
 
