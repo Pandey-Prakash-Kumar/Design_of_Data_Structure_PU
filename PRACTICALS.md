@@ -1,4 +1,4 @@
-# 💻 Design of Data Structures - List of Practicals
+## 💻 Design of Data Structures - List of Practicals
 
 ## 🔬 Lab Exercises
 
